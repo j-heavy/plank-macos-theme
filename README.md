@@ -12,3 +12,6 @@ My macOS like theme for plank based on other themes
 - Put the theme file in ```/ usr / share / plank / themes```
 - Set theme in plank`s settings
 - Enjoy 
+
+## License
+Theme created with :heart: by [heavy](https://github.com/j-heavy) · Released under the [MIT License](https://github.com/Chrysalisss/chrysalis/blob/master/LICENSE).
